@@ -1,0 +1,32 @@
+Suspicious packet detected.
+Time: 2024-10-18 19:08:58
+source: 10.0.0.3
+dest: 10.0.0.1
+port: 21
+payload: FTP transfer
+protocol: TCP
+
+Suspicious packet detected.
+Time: 2024-10-18 19:08:58
+source: unknown
+dest: 192.168.1.1
+port: 443
+payload: sus
+protocol: TCP
+
+Suspicious packet detected.
+Time: 2024-10-18 21:41:18
+source: 10.0.0.3
+dest: 10.0.0.1
+port: 21
+payload: FTP transfer
+protocol: TCP
+
+Suspicious packet detected.
+Time: 2024-10-18 21:41:18
+source: unknown
+dest: 192.168.1.1
+port: 443
+payload: sus
+protocol: TCP
+
